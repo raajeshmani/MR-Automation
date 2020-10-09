@@ -12,3 +12,12 @@ And it repeats itself annually using Google Calendar API
 Follow the first 2 steps for setup 
 
     https://developers.google.com/calendar/quickstart/python#step_1_turn_on_the
+
+How setting up my parents anniversary looks like
+
+<p float="left">
+  <img src="screenshots/parents_anniversary_event.png" />
+  <img src="screenshots/saved_event_on_calendar.png" height=220em/>
+
+</p>
+
