@@ -18,8 +18,8 @@ Follow the first 2 steps for setup
 I set up my parents' wedding anniversary!
 
 <p float="left">
-  <img src="screenshots/parents_anniversary_event.png" />
-  <img src="screenshots/saved_event_on_calendar.png" height=220em/>
+  <img src="assets/parents_anniversary_event.png" />
+  <img src="assets/saved_event_on_calendar.png" height=220em/>
 
 </p>
 
@@ -45,5 +45,33 @@ Feel free to double check if there is any flows that you don't want to execute
 #### cerner_2^5_2020
 
 Including this tag for a programming event at Cerner to submit DuoAutoAuthenticator.flo as an entry. This is a flow based code and might be harder to be classified with 32 line rule (Look into the flow from Automate app to view/edit the code). But this could be categorized under "engineering productivity" as it saves quite a lot of frustration and time each day
+
+---
+
+### Make My Life Easier
+
+Does what it says!
+
+#### Setup
+
+- Add this at the end of .zshrc or .bashrc
+
+      # My custom command scripts
+      source <PATH_TO_makeMyLifeEasier.sh>
+
+- Replace 'zsh' with 'bash' if you are using bash
+
+      $ source ~/.zshrc
+
+This will get me and my system up for work
+
+    $ makeMeA iced-coffee
+
+
+<p float="left">
+  <img src="assets/iced_coffee_greeting.png" height=400em />
+
+</p>
+
 
 ---
